@@ -1,0 +1,14 @@
+//
+
+    What is the runtime complexity of your solutions for Step 1 and Step 2?
+    step 1 O(1)
+    step 2 O(n)
+
+    What is the runtime complexity for each solution?
+    solution 1 O(n)
+    solution 2 O(1)
+
+    How do the solutions compare to yours? What improvements do you think you could have made to your solution?
+they are the same
+    How would the implementation of the Stack from Step 3 change if you were to implement a queue?
+    i would be adding things to the back of the array and removing things from the front
